@@ -1,4 +1,5 @@
-
+.ipynb_checkpoints
+img/Thumbs.db
 example_solutions/
 example_solutions/*
 draft_cells.ipynb
@@ -12,3 +13,4 @@ temp/
 temp/*
 in-class_solutions/
 in-class_solutions/*
+Seminar_1_Intro.ipynb
